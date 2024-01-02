@@ -1,0 +1,4 @@
+Repo,File,Method,Start,End,JavaDoc,Lines,Check,Magic,Unsupported,Style Errors
+src,EmpDataGUI.java,callAddEmployee,141,153,true,8,false,false,false,0
+src,EmpDataGUI.java,viewEmployeeDB,159,164,true,4,false,true,false,0
+src,EmpDataGUI.java,main,171,173,true,1,false,false,false,0
